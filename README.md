@@ -10,16 +10,16 @@
 ⦿ [![Data Science](https://img.shields.io/badge/🔬_Data_Science_Intern-0077B5?logo=python&logoColor=white)](https://)  
 **DEPI-AMIT** - _Oct 2024-May 2025_  
  
-⦿ `2024` [![Udemy](https://img.shields.io/badge/🎓_Frontend_Development-430098?logo=udemy&logoColor=white)](https://)  
+⦿ [![Udemy](https://img.shields.io/badge/🎓_Frontend_Development-430098?logo=udemy&logoColor=white)](https://)  
 **🌐 Frontend - Udemy** - _2024_  
 
-⦿ `2023` [![Udemy](https://img.shields.io/badge/🎓_Java_Pro-007396?logo=java&logoColor=white)](https://)  
+⦿ [![Udemy](https://img.shields.io/badge/🎓_Java_Pro-007396?logo=java&logoColor=white)](https://)  
 **☕ Java - Udemy** - _2023_
  
-⦿ `2022` [![ML](https://img.shields.io/badge/📚_Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white)](https://)  
+⦿ [![ML](https://img.shields.io/badge/📚_Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white)](https://)  
 **🧠 Core ML - Coursera** - _2022_
 
-⦿ `2022` [![Python](https://img.shields.io/badge/📘_Python_Basics-3776AB?logo=python&logoColor=white)](https://)  
+⦿ [![Python](https://img.shields.io/badge/📘_Python-3776AB?logo=python&logoColor=white)](https://)  
 **🐍 Python Foundation & Build Web Apps with Django** - _2022_ 
 
 # 💻 Tech Stack:
