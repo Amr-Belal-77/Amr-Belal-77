@@ -4,7 +4,11 @@
 📍 From Giza, Egypt | 📧 amrbelal876@gmail.com <br>
 
 <h2 style="color:red">💫 About Me:</h2> 
-<br> My journey in AI began with building <b>smart solutions that matter</b> — from a <b>mental health chatbot</b> using LSTM + Attention, to a <b>secure chat system</b> detecting sensitive data. I thrive at the intersection of <b><i>AI</i></b>, <b>software</b>, and <b>real-world challenges</b>.
+<br> My journey in AI began with building <b>smart solutions that matter</b> — from a <b>mental health chatbot</b> using LSTM + Attention, to a <b>secure chat system</b> detecting sensitive data. I thrive at the intersection of <b>AI</b>, <b>software</b>, and <b>real-world challenges</b>.
+
+- 🔬 Passionate about **data-driven solutions**, ML optimization, and real-time systems.
+- 🧩 Love tackling edge cases that test the limits of AI models.
+- 💻 Always learning, always building, always improving.
 
 ## 🚀 Training & Courses
 
