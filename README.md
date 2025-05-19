@@ -12,7 +12,7 @@
 
 ## 🚀 Training & Courses
 
-⦿ [![BUE](https://img.shields.io/badge/-Al-FF0000?logo=BUE_AI_Inttern&logoColor=white)](https://)  
+⦿ [![BUE](https://img.shields.io/badge/-Al-FF0000?logo=BUE_AI_Inttern&logoColor=Gray)](https://)  
 **The British University in Egypt** - _Feb 2025_  
 
 ⦿ [![Huawei](https://img.shields.io/badge/-Al-FF0000?logo=huawei&logoColor=white)](https://)  
