@@ -4,7 +4,7 @@
 📍 From Giza, Egypt | 📧 amrbelal876@gmail.com <br>
 
 <h2 style="color:red">💫 About Me:</h2> 
-<br> My journey in AI began with building <b>smart solutions that matter</b> — from a <b>mental health chatbot</b> using LSTM + Attention, to a <b>secure chat system</b> detecting sensitive data. I thrive at the intersection of <b>AI</b>, <b>software</b>, and <b>real-world challenges</b>.
+<br> My journey in AI began with building <b>smart solutions that matter</b> — from a <b>mental health chatbot</b> using LSTM + Attention, to a <b>secure chat system</b> detecting sensitive data. I thrive at the intersection of <b>AI</b>, <b>software</b>, and <b>real-world challenges</b>.<br>
 
 - 🔬 Passionate about **data-driven solutions**, ML optimization, and real-time systems.
 - 🧩 Love tackling edge cases that test the limits of AI models.
@@ -33,11 +33,20 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
+<br>
+- **AI Intern** – The British University in Egypt _(Feb 2025)_
+- **AI & ML** – Shabab Mubtakirun & Huawei _(Jan–Feb 2025)_
+- **Data Science Intern** – DEPI-AMIT _(Oct 2024 – May 2025)_
+- **Frontend Development** – Udemy _(2024)_
+- **Java** – Udemy _(2023)_
+- **Machine Learning** – Udemy _(2022)_
+- **Python** – Udemy _(2022)_
+<br>
 ## Education
 
 **Helwan International Technological University (HITU)** *(2022-2026)*  
 - **Artificial Intelligence Department**  
-- **GPA:** 3.7  
+- **GPA:** 3.78  
 - **Completed coursework:** Python for AI.  
 - **Completed coursework:** Python.  
 
