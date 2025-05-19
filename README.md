@@ -1,4 +1,8 @@
 <img src="image(2).png" alt="Logo" width="850" />
+<h2>👋 Hi, I'm Amr Belal!</h2> 
+🎓 AI Engineer | 💡 Problem Solver | 🧠 Machine Learning Enthusiast  <br>
+📍 From Giza, Egypt | 📧 amrbelal876@gmail.com <br>
+
 <h2 style="color:red">💫 About Me:</h2> 
 <br> As an AI student, I’m Amr Belal, dedicated to exploring the frontiers of Artificial Intelligence.<br><br> Building & Innovating in <br>Developing smarter algorithms to enhance wireless networks using an improved approach to "the Laxman-Saha algorithm".<br><br> Excited to Collaborate on <br>AI and machine learning projects, especially in model optimization and creative data analysis.<br><br> Solving Problems, One Python Script at a Time<br>From debugging AI models to optimizing algorithms, Python is my go-to toolkit for tackling complex challenges<br><br> Fun fact: <br>I love challenging AI models with unexpected edge cases to test their robustness!<br><br>I am passionate about continuous learning and always strive to acquire new knowledge and develop my skills.
 
