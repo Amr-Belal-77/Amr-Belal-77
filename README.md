@@ -1,5 +1,5 @@
 <img src="image(2).png" alt="Logo" width="850" />
-<h2>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amr Belal
+<h2>Hi My name is Amr Belal
 </h2> 
 🎓 AI Engineer | 💡 Problem Solver | 🧠 Machine Learning Enthusiast  <br>
 📍 From Giza, Egypt | 📧 amrbelal876@gmail.com <br>
