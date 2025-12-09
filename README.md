@@ -51,18 +51,18 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amr_belal_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AmrBelalArab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amr_jmika__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-belal7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amr_belal__) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201123270203)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amr-belal-77&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amr-belal-77&theme=cobalt2&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Amr-Belal-77&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amr-Belal-77&theme=cobalt2&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Belal-77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amr-belal-77&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Amr-Belal-77&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amr-belal-77&limit=5&theme=cobalt2&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Amr-Belal-77&limit=5&theme=cobalt2&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amr-belal-77&icon=0&color=0)](https://visitcount.itsvg.in)
